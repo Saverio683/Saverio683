@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saverio683
 I'm an italian guy who loves learning and programming
 - 👀 I’m interested in front-end web developemnt, expecially in react.js and it' s ecosystem
-- 🌱 I’ve currently created my portfolio
+- 🌱 I’m currently nodejs and mongodb
  
 - My dev.to: https://dev.to/saverio683
 
