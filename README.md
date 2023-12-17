@@ -6,4 +6,4 @@
 
 - My latest creation: https://www.madnight.it (work in progress)
 
-- My portfolio: https://www.saverio-randazzo.it
+- My portfolio: https://www.saverio-randazzo.com
