@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saverio683
-- 👀 I’m interested in fullstack web developemnt, expecially in MERN ecosystem
-- 🌱 I’m currently in Golang
+- 📚 First-year artificial intelligence student
+- 🌱 I’m currently in Python
  
 - My dev.to: https://dev.to/saverio683
 
