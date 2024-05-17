@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saverio683
-- 📚 First-year artificial intelligence student
-- 🌱 I’m currently in Python
+- 📚 Artificial intelligence student
+- 🌱 I’m currently in Machine Learning
  
 - My dev.to: https://dev.to/saverio683
 
