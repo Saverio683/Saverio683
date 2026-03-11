@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Saverio683
-- 📚 Artificial intelligence student
-- 🌱 I’m currently in Machine Learning
+- ML student
 
 - My portfolio: https://www.saverio-randazzo.com
  
